@@ -1,0 +1,14 @@
+True
+1
+2
+{8, 2, 4, 6}
+97
+sum= 30
+0
+I am rubbish ,i will kick the hed
+33
+10
+33.8
+93.2
+Does not makes sense
+172.4
